@@ -7,7 +7,7 @@ I placed RF paths on the top layer with impedance control for Sub-GHz and 2.4 GH
 
 As a handle IoT Switch, it needs to be literally wireless. So for this I design all the system to be powered up by an **ER14505 (AA) Lithium battery.**
 
-This PCB is originally designed with Altium Designer version 21. All the libraries that required to build the PCB are included in [PCB files](/hardware/Transceiver/PCB_Files).
+This PCB is originally designed with Altium Designer version 21. All the files that required to build the PCB are included in [PCB files](/hardware/Transceiver/PCB_Files).
 
 ## Layers
 After routing wires for all components I placed polygons on each layer. In table below I show all the polygons and their purpose in our design.
