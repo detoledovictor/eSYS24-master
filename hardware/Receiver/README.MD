@@ -5,7 +5,7 @@ eCONTROL24 hardware designed with a four layers FR4 PCB material. I need four la
 
 I placed RF paths on the top layer with impedance control for Sub-GHz and 2.4 GHz frequencies.
 
-This PCB is originally designed with KiCAD version 6. All the libraries that required to build the PCB are included in [PCB files](/hardware/Receiver/PCB_Files).
+This PCB is originally designed with KiCAD version 6. All the files that required to build the PCB are included in [PCB files](/hardware/Receiver/PCB_Files).
 
 ## Layers
 After routing wires for all components I placed polygons on each layer. In table below I show all the polygons and their purpose in our design.
