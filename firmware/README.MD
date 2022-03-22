@@ -5,7 +5,7 @@ This is the full communication system where we have 2 codes, the first one to Se
 
 ## How to Use
 To use this follow these steps:
-- Download this repository
-- Download [Arduino IDE](https://www.arduino.cc/en/software) software
-- Make sure to download STM32 boards package .[here](https://github.com/stm32duino/Arduino_Core_STM32) and install it
+- Download this repository.
+- Download [Arduino IDE](https://www.arduino.cc/en/software) software.
+- Make sure to download STM32 boards package .[here](https://github.com/stm32duino/Arduino_Core_STM32) and install it.
 - Import the code in the IDE and have FUN.
