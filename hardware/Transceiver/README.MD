@@ -5,7 +5,7 @@ eSWITCH24 hardware designed with a four layers FR4 PCB material. I need four lay
 
 I placed RF paths on the top layer with impedance control for Sub-GHz and 2.4 GHz frequencies.
 
-This PCB is originally designed with Altium Designer version 21. All the libraries that required to build the PCB are included in [PCB files](../hardware/PCB_Files).
+This PCB is originally designed with Altium Designer version 21. All the libraries that required to build the PCB are included in [PCB files](/hardware/Transceiver/PCB_Files).
 
 ## Layers
 After routing wires for all components I placed polygons on each layer. In table below I show all the polygons and their purpose in our design.
@@ -20,5 +20,5 @@ After routing wires for all components I placed polygons on each layer. In table
 ## How to Use
 To use PCB files in this directory follow these steps:
 - Install the latest version of the [Altium Designer](https://www.altium.com/products/downloads)
-- Download and extract [PCB files](../hardware/PCB_Files)
+- Download and extract [PCB files](/hardware/Transceiver/PCB_Files)
 - Open project in Altium Designer
