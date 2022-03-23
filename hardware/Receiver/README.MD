@@ -1,5 +1,5 @@
 # Overview
-<img src="" alt="PCB 3D View" width="400" align="right"/>
+<img src="/Images/econtrol_3Da.PNG" alt="PCB 3D View" width="370" align="right"/>
 
 eCONTROL24 hardware designed with a four layers FR4 PCB material. I need four layer to implement the RF Stackup and better power plains that gives me flexibility to control power consumption in various scenarios.
 
@@ -12,10 +12,10 @@ After routing wires for all components I placed polygons on each layer. In table
 
 | Layer       | Polygons Description |Image  |
 | ----------- | ------------------- |-------|
-| Top | Connected to GND.<br /> Multiple Polygons.<br /> Includes impedance control for RF paths.<br />and all others connections. | <img src="" alt="Top Layer Polygon" width="300" align="center"/>|
-| Inner 1 | Connected to GND. | <img src="" alt="Inner Layer 1 Polygon" width="300" align="center"/>|
-| Inner 2 | Connected to POWER LINES. | <img src="" alt="Inner Layer 2 Polygon" width="300" align="center"/>|
-| Bottom | Connected to GND.<br />and to anothoer signal traces. | <img src="" alt="Bottom Layer Polygon" width="300" align="center"/>|
+| Top | Connected to GND.<br /> Multiple Polygons.<br /> Includes impedance control for RF paths.<br />and all others connections. | <img src="/Images/econtrol_top.PNG" alt="Top Layer Polygon" width="300" align="center"/>|
+| Inner 1 | Connected to GND. | <img src="/Images/econtrol_mid1.PNG" alt="Inner Layer 1 Polygon" width="300" align="center"/>|
+| Inner 2 | Connected to POWER LINES. | <img src="/Images/econtrol_mid2.PNG" alt="Inner Layer 2 Polygon" width="300" align="center"/>|
+| Bottom | Connected to GND.<br />and to anothoer signal traces. | <img src="/Images/econtrol_bottom.PNG" alt="Bottom Layer Polygon" width="300" align="center"/>|
 
 ## How to Use
 To use PCB files in this directory follow these steps:
