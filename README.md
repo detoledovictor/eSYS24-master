@@ -1,5 +1,5 @@
 ## eSYS24 - Overview
-<img src="" alt="Both Boards" width="321" height="250" align="right"/>
+<img src="Images/union_boards.PNG" alt="Both Boards" width="321" height="250" align="right"/>
 
 Electronic System based on 2.4GHz communication.<br /> The Project is developed using the most popular GHz transceiver in the market, the [NRF24L01](https://www.mouser.com/datasheet/2/297/nRF24L01_Product_Specification_v2_0-9199.pdf), and controlled by [STM32F103Cx](https://www.st.com/resource/en/datasheet/stm32f103c8.pdf).
 
