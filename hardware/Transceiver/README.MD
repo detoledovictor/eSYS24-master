@@ -5,7 +5,7 @@ eSWITCH24 hardware designed with a four layers FR4 PCB material. I need four lay
 
 I placed RF paths on the top layer with impedance control for Sub-GHz and 2.4 GHz frequencies.
 
-As a handle IoT Switch, it needs to be literally wireless. So for this I design all the system to be powered up by an **ER14505 (AA) Lithium battery.**
+As a handle IoT Switch, it needs to be literally wireless. So for this I design all the system to be powered up by an **ER14505 or ER25600 (AA) Lithium battery.**
 
 For simplify the manufacture, I selected 0603 passive componnents, it's more easy to hand soldering.
 To communicate PC USB with the MCU, I used the brigde [CP2102](https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf) it's more powerful and trustworthy than the CH341SER (used in the Arduino's board).
