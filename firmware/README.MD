@@ -15,7 +15,7 @@ With this,send several messages, with 32kBytes, will not take some time.
 > For the radio works properly, I need to use the [TMRh20](https://github.com/nRF24/RF24) RF24 lib. All the libs are available to download inside the codes files.
 
 ###### Note3:
-> The codes are developed and test in a controled ambient, so... ***it works on my machine*** ```¯\_(ツ)_/¯```  **(it's a JOKE TO)** <br />
+> The codes are developed and test in a controled ambient, so... ***it works on my machine*** ```¯\_(ツ)_/¯```  **(it's a JOKE TOO)** <br />
 > Like it's a v00 code, unfortunately, it isn't bugs free, if you download it and realise some bug tell me and let's together resolve it.
 
 
