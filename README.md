@@ -20,7 +20,7 @@ Some pictures are available in this file to create a Spoiler of the project. <br
 ###### Note:
 To test the codes and also de hardware I developed this prototype using a breadBoard and some jumpers. <br />
 To simulate the load, and to fit it in the board, I used a "traffic lights" board. In the other side to send the commands I used two classical tactile switch with a green button.<br />
-The codes were burned in the *PluePill board* using a STLINK-V2 and the STM32CUbeProgrammer, the serial communication were tested using a CP2102 sticker pluged in ```HardwareSerial Serial1(PA10,PA9) //RXD, TXD```.<br />
+The codes were burned in the *PluePill board* using a STLINK-V2 and the STM32CubeProgrammer, the serial communication were tested using a CP2102 sticker pluged in ```HardwareSerial Serial1(PA10,PA9) //RXD, TXD```.<br />
 
 
 
