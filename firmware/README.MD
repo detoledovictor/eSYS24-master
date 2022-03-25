@@ -24,4 +24,5 @@ To use this follow these steps:
 - Download this repository.
 - Download [Arduino IDE](https://www.arduino.cc/en/software) software.
 - Make sure to download STM32 boards package .[here](https://github.com/stm32duino/Arduino_Core_STM32) and install it.
+- Install all the available libs.
 - Import the code in the IDE and have FUN.
