@@ -11,7 +11,7 @@ As we can see the dataRate of transmission can be seted in the line code
 With this,send several messages, with 32kBytes, will not take some time.
 
 ###### Note2:
-> The libs are essentials for this project, to make oLED works fine in the SMT32F103 I need the [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306) and the [Adafruit-GFX](https://github.com/adafruit/Adafruit-GFX-Library) on v1.7.2 *yes, I need downgrade the version.* <br />
+> The libs are essentials for this project, to make oLED works fine in the SMT32F103 I need the [Adafruit_SSD1306](https://github.com/adafruit/Adafruit_SSD1306) and the [Adafruit-GFX](https://github.com/adafruit/Adafruit-GFX-Library) on v1.7.2 *yes, I needed downgrade the version.* <br />
 > For the radio works properly, I need to use the [TMRh20](https://github.com/nRF24/RF24) RF24 lib. All the libs are available to download inside the codes files.
 
 ###### Note3:
